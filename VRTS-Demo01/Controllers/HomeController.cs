@@ -11,6 +11,7 @@ namespace VRTS_Demo01.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            // added comment!.
             return View();
         }
     }
